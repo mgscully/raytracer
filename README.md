@@ -1,7 +1,8 @@
 # Raytracer -- Miranda Scully 
 
 ## Overview 
-This project is a sophisticated raytracing engine that supports a range of advanced rendering features. It provides a versatile platform for creating high-quality, photorealistic images and animations. The raytracer can handle various geometric shapes, textures, and lighting models.
+This project is a sophisticated raytracing engine that supports a range of advanced rendering features. It provides a versatile platform for creating high-quality, photorealistic images and animations. The raytracer can handle various geometric shapes, textures, and lighting models. Uses the GFX library which contains functionality for handling mathematic functions in V, image creation, and color qualities. This library was given to me by my professor. 
+
 ## Functions 
 
 - **Shape intersection**: implemented for sphere, quad, and planar circle 
